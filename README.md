@@ -5,8 +5,11 @@ This repository contains the frontend code for the Student Project Portfolio Pla
 Key Features:
 
 Interactive User Interface: Designed a dynamic and visually appealing frontend to enhance user interaction and project presentation.
+
 Increased Engagement: Developed features aimed at increasing student engagement and facilitating a better showcase experience.
+
 Team Leadership: Led a team of developers, improving productivity by 30% through effective collaboration and task management.
+
 Feedback Integration: Implemented a feedback system for continuous improvement based on stakeholder input.
 
 Technologies Used:
